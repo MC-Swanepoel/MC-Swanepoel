@@ -4,11 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack developer
 --------------------
 
-I am working as a full stack blazor developer at musketeer software solutions. While completing my Bcom Informatics Honours degree.
 
 *   🌍  I'm based in South Africa
 *   ✉️  You can contact me at [martinswanepoel108@Gmail.com](mailto:martinswanepoel108@Gmail.com)
-*   🚀  I'm currently working on [Musket](http://www.musketeer-ss.com/)
 *   🤝  I'm open to collaborating on Interensitng projects
 
 ### Skills
